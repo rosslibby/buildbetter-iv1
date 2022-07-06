@@ -3,6 +3,7 @@
  */
 
 :root {
+  --background-color: #141415;
   --card-primary-background: #27292c;
   --card-active-background: #3a3c3f;
   --accent-color: #8855fd;
