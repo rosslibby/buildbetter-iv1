@@ -119,7 +119,9 @@ h6 {
   width: 18.5rem;
 }
 
-.card:focus {
+.card:focus,
+.card--focused {
+  background-color: var(--card-active-background);
   border: 3px solid var(--highlight-color);
   outline: 0;
 }
@@ -176,6 +178,10 @@ h6 {
   max-height: max-content;
   resize: none;
   width: 100%;
+}
+
+.card:hover {
+  background-color: var(--card-active-background);
 }
 
 .card__input:empty::after {
