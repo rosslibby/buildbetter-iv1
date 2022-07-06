@@ -8,7 +8,7 @@ export type { MomentCardProps };
 
 interface MomentCardProps {
   handleChanges: (data: Moment) => void;
-  removeCard: (id: Number) => void;
+  removeCard: (id: number) => void;
   moment: Moment;
 }
 
@@ -22,9 +22,21 @@ const MomentCard = (props: MomentCardProps) => {
   const handleRemoveCard = () => props.removeCard(props.moment.id)
 
   return (
-    <div className="card">
+    <div className="card" tabIndex={props.moment.id}>
       <span className={`card__type card__type--${props.moment.type}`}>{props.moment.type}</span>
-      <input
+      <div className="card__input"
+        contentEditable={true}
+        dangerouslySetInnerHTML={{__html: props.moment.notes}}
+        onBlur={(e) => {
+          const target = e.target as HTMLElement
+
+          props.handleChanges({
+            ...props.moment,
+            notes: target.innerText.replaceAll('\n', '<br />')
+          })
+        }}
+      />
+      {/* <textarea
         className="card__input"
         defaultValue={props.moment.notes}
         onChange={(e) => props.handleChanges({
@@ -32,8 +44,7 @@ const MomentCard = (props: MomentCardProps) => {
           notes: e.target.value
         })}
         placeholder="Add note..."
-        type="text"
-      />
+      /> */}
       <CardActions garbageAction={handleRemoveCard} />
     </div>
   );
