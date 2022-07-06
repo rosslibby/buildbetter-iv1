@@ -1,4 +1,7 @@
+import { useRef, useState } from 'react';
 import { Moment } from "../data";
+import { LinkIcon } from '../../components/LinkIcon';
+import { TrashIcon } from '../../components/TrashIcon';
 
 export { MomentCard };
 export type { MomentCardProps };
@@ -8,8 +11,14 @@ interface MomentCardProps {
   moment: Moment;
 }
 
+interface CardActionProps {
+  linkAction?: () => void;
+  garbageAction?: () => void;
+}
+
 const MomentCard = (props: MomentCardProps) => {
   // YOUR IMPLEMENTATION HERE
+
   return (
     <div className="card">
       <span className={`card__type card__type--${props.moment.type}`}>{props.moment.type}</span>
@@ -23,6 +32,18 @@ const MomentCard = (props: MomentCardProps) => {
         placeholder="Add note..."
         type="text"
       />
+      <CardActions />
     </div>
   );
 };
+
+const CardActions = (props: CardActionProps) => (
+  <div className="card__actions">
+    <button>
+      <LinkIcon />
+    </button>
+    <button>
+      <TrashIcon />
+    </button>
+  </div>
+)
