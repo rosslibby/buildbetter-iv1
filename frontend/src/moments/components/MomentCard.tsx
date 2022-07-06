@@ -14,7 +14,8 @@ interface MomentCardProps {
 }
 
 interface PlayButtonProps {
-  seconds: number
+  seconds: number;
+  id: number;
 }
 
 interface CardActionProps {
@@ -34,7 +35,7 @@ const MomentCard = (props: MomentCardProps) => {
     <div className={`card ${cardFocused && 'card--focused'}`} tabIndex={props.moment.id} ref={cardRef} onBlur={() => toggleCardFocus(false)}>
       <div className="card__header">
         <span className={`card__type card__type--${props.moment.type}`}>{props.moment.type}</span>
-        <PlayButton seconds={props.moment.timeInSeconds} />
+        <PlayButton id={props.moment.id} seconds={props.moment.timeInSeconds} />
       </div>
       <div className="card__input"
         onFocus={() => toggleCardFocus(true)}
@@ -64,7 +65,7 @@ const formatTime = (seconds: number) => {
 }
 
 const PlayButton = (props: PlayButtonProps) => (
-  <div className="play-button">
+  <div className="play-button" tabIndex={props.id + 2}>
     <button className="play-button__icon">
       <PlayIcon />
     </button>
