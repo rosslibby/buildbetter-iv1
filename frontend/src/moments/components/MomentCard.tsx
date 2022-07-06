@@ -9,5 +9,14 @@ interface MomentCardProps {
 
 const MomentCard = (props: MomentCardProps) => {
   // YOUR IMPLEMENTATION HERE
-  return null;
+  return (
+    <div className="card">
+      <span className="card__type">{props.moment.type}</span>
+      <input
+        className="card__input"
+        placeholder="Add note..."
+        type="text"
+      />
+    </div>
+  );
 };
