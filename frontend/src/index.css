@@ -1,3 +1,19 @@
+/**
+ * Variable definitions
+ */
+
+:root {
+  --card-primary-background: #27292c;
+  --card-active-background: #3a3c3f;
+  --accent-color: #8855fd;
+  --danger-color: #ee6b60;
+  --success-color: #75c097;
+  --warning-color: #ffd88d;
+  --highlight-color: rgba(136, 85, 253, 0.64);
+  --text-primary: #ffffff;
+  --text-secondary: rgba(255, 255, 255, 0.5);
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
@@ -80,4 +96,18 @@ h6 {
 #root,
 #__next {
   isolation: isolate;
+}
+
+/*
+ * Custom styling
+ */
+
+/*
+ * MomentCard
+ */
+
+.card {
+  /* background-color: ; */
+  height: max-content;
+  width: 18.5rem;
 }
