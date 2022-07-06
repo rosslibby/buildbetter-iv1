@@ -8,9 +8,9 @@ import { Moment } from './moments/data'
 const App = () => {
   const [cards, setCards] = useState<Moment[]>([emptyMoment])
   const updateCardData = (data: Moment) => {
-    console.log(`The following data has been modified for card ${data.id}:`, data)
     setCards(cards => cards.map(card => card.id === data.id ? data : card))
   }
+  const removeCard = (id: number) => setCards(cards => cards.filter(card => card.id !== id))
 
   return (
     <AppShell>
@@ -23,6 +23,7 @@ const App = () => {
               key={`moment_${card.id}`}
               moment={card}
               handleChanges={updateCardData}
+              removeCard={removeCard}
             />
           ))}
         </MomentStackWrapper>

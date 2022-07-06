@@ -8,6 +8,7 @@ export type { MomentCardProps };
 
 interface MomentCardProps {
   handleChanges: (data: Moment) => void;
+  removeCard: (id: Number) => void;
   moment: Moment;
 }
 
@@ -18,6 +19,7 @@ interface CardActionProps {
 
 const MomentCard = (props: MomentCardProps) => {
   // YOUR IMPLEMENTATION HERE
+  const handleRemoveCard = () => props.removeCard(props.moment.id)
 
   return (
     <div className="card">
@@ -32,7 +34,7 @@ const MomentCard = (props: MomentCardProps) => {
         placeholder="Add note..."
         type="text"
       />
-      <CardActions />
+      <CardActions garbageAction={handleRemoveCard} />
     </div>
   );
 };
@@ -42,7 +44,7 @@ const CardActions = (props: CardActionProps) => (
     <button>
       <LinkIcon />
     </button>
-    <button>
+    <button onClick={props.garbageAction}>
       <TrashIcon />
     </button>
   </div>
