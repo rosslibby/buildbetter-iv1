@@ -1,0 +1,802 @@
+start,end,speaker,text
+0.14,1.64,0,Are this cool.
+2.77,3.12,0,Hello?
+3.41,4.08,0,How's it going?
+5.14,6.6,1,"Hi, we're recording."
+7.03,7.32,0,Yeah.
+9.11,9.6,1,Awesome.
+10.11,10.4,1,Yeah.
+10.5,10.72,1,Why?
+11.38,12.08,0,"Oh, sorry."
+12.34,15.6,0,"I'm recording because I, because I want to collect some test data."
+15.78,19.16,0,"So like, because I'm debugging because I'm debugging zoom."
+21.82,22.11,0,Yeah.
+22.34,22.95,0,Basically.
+23.06,23.35,0,Okay.
+25.59,25.79,1,What?
+26.25,27.43,1,You're debugging zoom.
+28,28.35,0,Sorry.
+28.57,32.07,0,"The zoom app that we, that we built."
+33.33,33.62,1,Okay.
+33.81,34.1,1,Okay.
+34.49,35.1,0,"Yeah, yeah, yeah."
+35.1,40.58,0,"So right now I have the zoom, like the build better zoom app running, but it's like a, it's a test version of it."
+41.67,52.85,0,"And it's like recording, like whenever our voices switch on the video and we use the information of like, when our voices switch to make our transcriptions more accurate."
+54.15,54.73,1,"Oh, nice."
+55,55.29,1,Okay.
+55.72,56.01,1,Yeah.
+56.69,58.69,1,"I was like, wait, do you got some something going on?"
+63.27,63.56,0,Yeah.
+64.38,64.8,1,So yeah.
+64.92,71.4,1,"I mean, I, we pretty much already like met, you know, before we had our, our call, our discussion, our conversation."
+71.67,71.96,1,Yeah.
+72.1,83.87,1,"So I really just wanted to get in with you to learn a little bit more about your hiring cadence and what, what the work flow is that you've got set up."
+84.17,84.39,1,Yep.
+85.09,89.35,1,"So that I can actually, you know, be an asset and, and help in this area."
+89.82,90.11,1,Yeah.
+90.55,103.52,1,"I know that most of my role will be, you know, assisting and supporting Spencer, but that also boils down to, you know, recruiting and trying to get some grid in engineers in here."
+103.63,104.12,1,Totally.
+104.74,109.92,1,"And so, I mean, I really just want to find out like exactly what systems you're using."
+111.04,113.04,1,I saw that you sent over the applicant tracker.
+113.04,114.28,1,So I really appreciate that.
+114.5,114.72,1,Yep.
+115.11,122.6,1,"Like who you've reached out to, like, which fast employees that you have talked to and things like that."
+130.3,130.59,0,Dope.
+130.66,130.95,0,Yeah.
+132.12,132.79,0,Let's see here.
+137.6,138.58,0,Let me just think really quickly.
+141.13,157.02,1,"So like, whenever you I'm, I'm a huge like documentation per, I need to have things like in writing for me to be able to like, like have everything like a, like a good flow set up."
+158.8,171.97,1,"And so I guess where I wanted to start was like, okay, well, first of all, you know, I, I did, you know, notice the, the flow low that you'd set up in our, in the last, last Monday commitments meeting."
+172.27,172.49,1,Yep.
+174.11,183.24,1,"And so I guess we can start off like with the tracker, like, I don't see that there's anyone in there currently, but I know that we have had a few conversations."
+184.3,186.76,1,So where are those people being wronged?
+187.51,187.8,0,Yeah.
+187.86,193.76,0,"So I just to give you an idea of the current state, let me share my screen."
+194.59,194.88,1,Okay.
+197.1,199.27,0,"Do, do, do number one."
+199.46,199.75,0,Okay.
+201.8,202.58,0,Can you see my screen?
+203.33,203.62,1,Yeah.
+204.17,204.46,0,Cool.
+206.3,208.16,0,How do I take this out of the way?
+208.21,208.84,0,There we go.
+209.1,209.32,0,Bye.
+209.42,209.76,0,All right.
+222.76,223.05,0,Cool.
+223.16,223.45,0,Okay.
+224.39,241.09,0,"So the way that this is supposed to work is Spencer, after he has a phone screen with them is supposed to add it to this and effectively nobody so far."
+241.13,246.62,0,"I haven't, I like given that Spencer hasn't added it, I would add it."
+246.89,258.17,0,"Like I would add a column whenever they, like, whenever I talk to them in the tech cell and tech screen, but I haven't talked to anybody that Spencer has approved so far."
+258.85,270.04,0,"I think the first conversation that I'm going to have is on Tuesday, but ideally whenever Spencer has a call, I would like it to be in the applicant tracker if that's possible."
+271.11,271.4,1,Yeah.
+271.79,272.76,1,"Okay, perfect."
+275.1,283.96,0,"And then I guess the, the couple, the sorry, words are hard this morning."
+285.15,285.52,1,It's okay.
+288.01,290.48,0,There are two roles that we're looking for right now.
+291.7,294.91,0,There's a frontend engineer and there's a backend engineer.
+295.38,295.67,0,Yeah.
+295.91,299.15,0,"Specifically, we're looking for two frontend engineers and two backend engineers."
+299.55,301.87,0,"One of them, one of those frontend engineers is Teddy right now."
+303.93,325.24,0,"And we like, ideally like right now we're actively looking for backend engineers, but if a frontend front end engineer who we like, like comes through the pipeline, we're sort of opportunistically adding them here, but effectively the information that you would need to know to add it to this is just like their CV."
+325.42,330,0,And then also Spencer's Spencer's notes on the applicant.
+331.91,332.2,1,Okay.
+332.22,335.03,1,So you said Teddy is a front end app engineer.
+335.17,338.71,1,So that means that we're looking for one more front end and two back in.
+338.97,339.19,1,OK.
+339.62,340.51,0,"Yeah, yeah."
+342.53,342.82,0,Yeah.
+343,357.64,0,"So Alison, just, just as an example, the only person right now in the applicant tracker is this person, Alison Craig, and she's a friend end engineer be who we like opportunistically talk to because she just like reached out to us on the fly."
+357.78,366.44,0,"So she's going to be interviewing with Teddy on Mar or next Tuesday, I guess."
+366.48,372.48,0,"I haven't really written that down anywhere, but we do have those."
+375.35,375.64,1,Okay.
+375.86,382.91,1,"So the texts and call assessment, is that like a, like a take home assessment similar to the one that I did?"
+384.15,385.97,1,"Or is that the, is that the one with Teddy?"
+387.27,390.05,0,"No, that's the one with Teddy actually."
+390.58,403.68,0,"Sorry, this, this sort of, we adapted this, we adapted this template from our hiring tracker for the AE role."
+404.87,405.16,1,Yeah.
+406.06,408.98,0,"And sorry, EA role."
+410.96,415.5,0,"And I think there's some terminology that's still Wait, hold on."
+417.8,422.5,0,"So backend engineer at template, let's see here."
+422.76,441.09,0,"So There's gonna be the cell tech screen and there's gonna be the technical assessment and that's going to be Nick hill And then for the front engineer, it's going to be Teddy."
+444.18,444.71,1,"Okay, perfect."
+446.46,446.75,1,Yeah.
+446.81,449.15,1,That's that would be better for optics.
+449.15,454.15,1,"So I especially like right now, since I'm just coming in trying to understand."
+455.78,456.27,1,Perfect.
+466.72,467.01,2,Cool.
+482.47,482.82,0,Great.
+483.2,504.21,0,"And then I had this with, That was on Thursday, April 7th."
+509.26,509.55,0,Cool.
+511.45,511.74,0,Okay.
+516.52,519.74,1,So can we remove the culture fit column?
+520.24,520.46,1,Yep.
+520.6,526.47,1,And then edit that to tech In comms assessment to say Teddy maybe.
+527.9,528.19,0,Yeah.
+534.12,547.05,0,"No, I really appreciate that because like, we're like, this is all implicit knowledge that I just like, I glaze over it because like, I just, I, I know it's I know like the thing that I'm trying to get to, but I'm making it explicit for everybody is good."
+547.91,550.13,0,"So you're totally, thank you."
+556.32,556.61,1,Okay.
+563.27,563.49,0,Yep.
+563.56,565.77,1,"What, what would that, what would that be like?"
+565.9,571.96,1,Would that be a thumbs up from all four of you?
+573.81,574.61,0,There'll be three of us.
+574.66,577.84,0,It'll be me Teddy.
+579.69,582.31,1,So Adam does not need to give the thumb the thumbs up.
+582.38,582.67,1,Yeah.
+582.67,583.91,0,"Adam, won't be talking to them."
+584.45,590.87,0,"May we may, we may give him like we may, if it, if it's a, for a front end engineer, that's sort of Adam's wheelhouse."
+591.01,596.07,0,So we may give him a little bit of like his input.
+596.98,597.27,1,Okay.
+598.01,599.58,0,But yeah.
+599.84,613.52,0,"So essentially when anybody's in the, anybody becomes in the final sync column, that's when we are going to start emailing them every couple of days, just giving them an idea of where we are in our current batch."
+615.27,615.84,1,"Okay, perfect."
+616.27,616.56,1,Yeah.
+624.45,625.06,1,Somewhere.
+625.17,625.74,1,I'll find it.
+627.97,628.26,1,Okay.
+628.26,633.06,1,"And then they move or retired and then we have, okay."
+633.08,634.18,1,So possible future fits.
+634.18,637.14,1,Those are just additional ones.
+637.89,638.18,1,Cool.
+638.24,644.52,1,So like workflow as well.
+644.62,653.52,1,"So are you, are you guys, like, I know that Seren was assisting with like the EA role in terms of communication."
+654.7,669.63,1,"So like before he even gets over to like the final sink, do you guys want to change anything up to, I'm actively reaching out to them saying you're on to the next round and things like that."
+669.63,670.59,1,Would that be helpful?
+674.27,674.83,0,Personally?
+675.03,675.79,0,I don't really care.
+676.49,680.83,0,"As in like, I don't mind the, the time that it takes just cuz I like everything's ized already."
+681.37,690.42,0,It seems like I think the highest impact place that you could go go or that you could go in is like flagging people for me to review and hired.
+690.6,693.02,0,So actually do you have access to hired right now?
+694.56,695.14,1,"No, I don't."
+695.34,696.26,1,I was just gonna say that.
+696.69,696.98,0,Cool.
+697.17,697.46,0,Nice.
+698.2,698.7,0,I'm going.
+699.44,701.22,1,"No, I've asked for it a few times."
+702.12,703.02,0,Oh you I'm?
+703.02,704.85,0,So you ask?
+705.53,706.21,1,I asked Spencer.
+706.87,707.49,0,Oh yeah.
+707.49,707.85,0,Classic.
+707.92,708.21,0,Yeah.
+712.96,713.08,0,Coworker.
+715.7,716.52,0,What's your last name?
+717.84,718.13,1,Dean.
+718.64,718.93,0,Dean.
+719.03,719.45,0,Oh right.
+719.83,720.05,0,OK.
+720.05,720.61,0,Reviewer.
+721.74,722.23,0,Awesome.
+729.21,744.48,0,"Words I have this, I have, this is this concept in my head of like there're shapes people and their words, people and I'm definitely a shapes person."
+746.9,747.68,1,I'm a shapes person.
+748.26,748.48,1,Huh?
+748.5,748.88,1,Oh gosh.
+749.08,750.04,1,I gotta know more about that.
+751.28,751.5,0,No.
+751.57,751.86,0,Okay.
+751.86,752.78,0,"Like, right."
+753,755.6,0,So feel like shapes.
+755.6,763.67,0,"People are like people who, when they, when they think they don't necessarily think in like words, like for me, I don't, like I only talk in words."
+763.79,766.95,0,I don't like have words in my head unless I explicitly conjure them.
+767.5,780.42,0,"Whereas, and like everything more or less is like visual and like, you know, when I'm like programming, for example, like I sort of think of it in like in, in, in images rather than like, rather than in words."
+781.12,783.14,0,And so like there's all the transition layer.
+783.69,783.98,0,Yeah.
+783.98,784.74,0,Does that make sense?
+785.25,785.94,1,"Yeah, totally."
+786.25,786.54,1,Yeah.
+788.4,788.62,1,Wow.
+789.13,793.7,1,"I've actually, I've actually like thought about that ever since I was a kid, like, like I don't, I don't think like that."
+793.86,799.17,1,"I, I think in, I wouldn't say like shapes, I would say like more like lines."
+800.13,800.45,0,Interesting.
+800.8,801.09,1,Okay.
+801.39,815.43,1,"And so like certain, certain people and I, I guess it would be shapes too, because I feel like I've always told my sister, like if, if something isn't isn't is if it's like off to me, then it's not square."
+815.86,816.99,1,Like it has to be square.
+817.1,817.39,0,Yeah.
+817.42,818.39,0,"Yeah, totally, totally."
+818.57,819.98,1,In all report to make things.
+822.08,822.3,1,Wow.
+822.49,822.78,1,Okay.
+822.98,830.74,1,"I never thought that in my life anybody would else, anybody else would understand that except my sister or like this, so yeah."
+830.74,831.26,1,It's hilarious.
+831.65,831.94,1,Okay.
+832.37,832.86,1,Awesome.
+833.2,833.62,1,I'm so glad.
+834.17,837.94,0,"Very much, it'll be useful for you to know that Spencer's very much a words person."
+838.09,839.14,0,He's not person.
+840.08,840.37,1,Yeah.
+840.67,845.08,1,"And he's probably one of, one of these shapes that goes like this."
+845.58,846.84,1,It closes up in a circle.
+849.68,849.88,1,Interesting.
+849.88,853.24,1,"Like he knows what he's trying to get to, but he's like he takes this route."
+853.95,854.88,0,"Yeah, yeah, exactly."
+855.07,855.56,0,Exactly.
+857.4,857.56,1,Man.
+858.59,859.08,1,"Okay, cool."
+859.42,865.75,1,So exactly were like what came from the higher.com?
+869.38,869.67,0,Yeah.
+869.78,870.07,0,Okay.
+870.21,874.43,0,So the biweekly meetings are basically a check in with our account executive.
+875.35,884.46,0,"I personally like I mark myself as optional on them because, or like sometimes I, sometimes I just don't attend just cuz we all decided that that's not necessarily the best use of my time."
+885.44,894.72,0,"If I have explicit questions from the AE, typically I just ask or like I have the, I haven't asked yet, but I have the option of asking in, in the slack channel."
+895.68,897.68,0,I believe that Spencer is going to those meetings.
+898.12,903.28,0,"I don't know if there's any value that he's gotten out of them so far, but that's for him to decide."
+905.26,906.08,0,That's what they're for.
+906.08,912.87,0,"They're not, there's nothing like directly related to our hiring pipeline that we're like that we're, that happens during those biweekly meetings."
+913.61,914.07,0,"Oh, okay."
+914.54,914.83,0,Yeah.
+915.29,921.19,0,"So as far as like what you could help with in the hiring process, we have these two roles set up."
+921.19,925.07,0,"There's a senior backend engineer, senior friend and engineer here."
+925.33,929.71,0,"So these are the roles and then, or positions."
+929.81,931.34,0,And then here are the searches that we have.
+931.48,940.1,0,"So right now, because we're prioritizing the backend engineer hire, I have a search filter, like a filter set, set up for backend engineers."
+941.48,954.06,0,"If you could go in and, and like just flag a couple of people per day for me, you to go through, that would be great."
+954.16,960.94,0,"And I can sort of go through right now and tell you, like, we can just go through a couple and you can get a, get a sense of like what I'm looking for."
+962.88,966.78,0,"Or I can like write that down for you if, if you would prefer that."
+968.76,969.05,1,Yeah.
+969.05,969.65,1,Can we do both?
+970.16,970.85,0,"Yeah, totally."
+971.58,975.12,0,Would you like to write it down as I go through?
+976.33,977.1,1,"Yeah, I can do that."
+977.45,977.74,0,Cool.
+977.91,979.51,0,Don't okay.
+979.61,986.31,0,So really quickly the filters that I have set up are for the role.
+986.59,991.99,0,I have a full stack engineer and backend engineer full stack basically means they can do backend and front end engineering.
+993.67,1000.52,0,And it tends to be the case that full stack engineers start as backend engineers and then move to frontend or engineering rather than the other way around.
+1002.46,1006.6,0,So for skills the must have for a backend engineer for us is Python.
+1006.75,1016.43,0,"Just because I write like all of our backend Python, I would ideally like our, like our candidates to have experience with Java."
+1018.75,1027.48,0,"Primarily Java is like the, the most important one here type script and graph QL are like a little bit less important type script and graph."
+1027.58,1042.45,0,"QL are things that we use on the front end right now type script can also be used on the back end, but it doesn't really like, it doesn't matter as much to do that years of experience."
+1042.46,1043.73,0,We're looking for at least two.
+1045.86,1073.8,0,"I actually I'm gonna change that to four just because I feel like I've just based on the past, based on what the candidates that have been coming up, we obviously include remote first and then our preferred salary just caps at what I mean, it's just, it's just not set right now, but yeah."
+1074.34,1085.21,0,"And then as far as keywords go, I just sort of reiterated a similar variant of what I wrote up here in terms of the language preferences."
+1088.59,1098.56,0,"And then, then for wishlist, I tried to make it so that it would fit our company size right now or like what we project our company size to be in the near future."
+1102.46,1102.75,0,Cool.
+1103.09,1103.43,0,All right.
+1103.97,1105.91,0,"All that said, let's go through a couple of examples."
+1107.36,1107.71,1,Sorry.
+1107.96,1108.31,1,Sorry.
+1108.31,1108.87,1,Quick question.
+1109.13,1112.66,1,So what is the pay band that we're working with?
+1113.16,1113.54,0,Oh yeah.
+1113.54,1113.82,0,Okay.
+1113.84,1119.34,0,"So pay band is basically up to $200,000."
+1120.6,1127.12,0,"The, the big gotcha."
+1127.12,1134.96,0,There is that a lot of people who have a preference for early stage companies are willing to take a temporary pay cut.
+1137.22,1144.4,0,"And therefore we can target people who have greater than 200 thou or who have a preference for greater than $200,000."
+1144.98,1147.84,0,As long as we make it clear to them.
+1147.87,1176.34,0,"Like we acknowledge that, Hey, like we understand that this isn't where we're at right now or like this, that our offer that we define right here is like not as high as you would like it to be, but here's the reason why like, here's the compelling reason why essentially I say we have existing investors who wanna invest more money and we are raising salaries as we reach business milestones that include fundraising and revenue."
+1179.38,1186.2,0,"And like, in addition to that, we also compensate in like the 90th percentile for equity."
+1187.29,1190.39,0,"So, or like for, for startups at our stage."
+1191.3,1191.59,1,Yeah.
+1191.94,1192.23,1,Okay.
+1192.23,1192.43,1,Yeah.
+1192.43,1192.91,1,Makes sense.
+1193.5,1193.79,0,Yeah.
+1199,1199.61,0,"Okay, cool."
+1199.74,1200.25,0,Let's see here.
+1200.25,1202,0,"Let, go through an example."
+1203.09,1203.44,0,Sorry.
+1203.62,1205.32,0,Any other questions before I go?
+1206.1,1206.32,1,No.
+1207.11,1207.68,0,"Okay, cool."
+1209.31,1209.6,0,Okay.
+1210.1,1215.2,0,So this person let's see here.
+1215.58,1224.43,0,"She just scrolling through like in the nice to have is that she's like down for a wide variety of, or a wide band of like company types."
+1224.49,1227.19,0,That's nice industry.
+1227.43,1230.43,0,I don't care as much about in terms of like previous background.
+1231.11,1233.39,0,I do care about the specific companies that they work at.
+1233.69,1248.56,0,"So specifically, like it's interesting to me to know whether they're like whether they were in a supporting role as a developer, they were building tools for other developers or they were building applications for like the, the customers of the business."
+1249.4,1256.16,0,Just because there tend to be two types of engineers you call like roughly they're called like platform engineers versus like product engineers.
+1257.06,1262.12,0,"We want to, like, we want to bias heavily towards product engineers, just cuz that's what they're going to be doing."
+1262.18,1268.03,0,And we don't really have like the scaling concerns that require like a platform engineer at this point.
+1268.86,1269.15,0,Okay.
+1270.58,1276.59,0,"Primary areas of expertise looks like Java Python and JavaScript, which, which are everything that we're looking for."
+1277.17,1277.99,0,That's fantastic.
+1281.06,1319.48,0,"And let's see here looking at this, What is, oh man, sorry."
+1319.66,1321.96,0,"I'm like, this is like a, this seems good to me."
+1322.18,1327.84,0,I'm trying to figure out why it seems good to me or like I'm trying to put words to it.
+1328.27,1328.56,0,Okay.
+1338.58,1349.91,0,"She seems like a good developer because one she's able to work like across like across different frameworks and languages, which indicates like she's just using a tool to solve a problem."
+1351.08,1373.57,0,"She's also like she's also worked on teams or sorry, she's worked in the context of like of not just like building things as an engineer, but also like had to like had to manage people or like had to, you know, had to basically like interact with other people, which like is a big, like is a big part of software engineering, right?"
+1373.57,1383.39,0,Like basically understanding what you're coding and Yeah.
+1383.57,1388.9,0,"And I mean, I think the biggest one, like she, she has, she has like the language compatibility that we want."
+1389.28,1397.34,0,"So in this case I would go to a short list and I would tick her off in senior backer engineer, which I seem to have already done."
+1398.69,1400.18,0,Have I already done that for a lot of people?
+1400.45,1400.98,0,"Yeah, I have."
+1401.09,1401.38,0,Okay.
+1401.4,1402.98,0,Let me just go way down this list.
+1408.74,1409.41,0,Let's see here.
+1419.07,1420.04,0,Does it show me where?
+1420.1,1420.52,0,Oh yeah.
+1420.52,1421.08,0,"Okay, cool."
+1421.3,1426.71,0,It does show me where People are shortlisted.
+1427.14,1427.43,0,Okay.
+1434.37,1436.35,0,An example of like a really bad profile.
+1436.65,1439.43,0,"So one she's asking her $300,000 a year."
+1439.7,1451.3,0,"There's like not really a reason why, or like it doesn't really demo like her profile doesn't really demonstrate why she uses, like she has extreme, extremely limited information about what she did."
+1452.05,1456.42,0,Like a lot of it doesn't really like doesn't really go into specifics.
+1456.64,1463.9,0,"One of the big things, like one of the big bullshit tests for engineers is like, whether they can talk about things in very, very specific language."
+1465.53,1470.23,0,"Because like, I mean, I it's kind of self demonstrative actually."
+1470.74,1471.03,0,Yeah.
+1471.43,1472.55,0,I don't really need to explain that.
+1473.18,1473.47,0,Yeah.
+1475.26,1475.55,0,Yeah.
+1476.02,1485.31,0,"This was like an instant, like not just like, oh, I'm gonna go, like I'm gonna go away for, or like I'm this is a no for me, but like actively I would avoid this person, you know?"
+1487.62,1487.91,1,Yeah.
+1487.97,1489.35,1,So we would probably hide her.
+1491,1491.22,0,Yes.
+1491.27,1491.62,0,Great.
+1492.02,1494.06,0,Actually that didn't even look at again.
+1494.42,1495.82,0,"I just words, words."
+1504.87,1505.16,0,Okay.
+1505.19,1505.48,0,Yeah.
+1505.48,1506.44,0,Let's go through this one.
+1509.17,1513.58,0,Must have remote first that seems compatible this person.
+1513.69,1515.65,0,"Like, let's see here."
+1516.28,1518.49,0,They have the requisite languages that we're looking for.
+1520.35,1536.8,0,"One of the interesting things for me is like, they're they founded a company in my, like in my experience, people who have been founders in the past and who are looking for engineering roles right now are like really good candidates because they're, they tend to be generalists."
+1536.8,1541.52,0,"They tend to be like, be able to be independent and they tend to have like, they tend to give a shit."
+1542.99,1543.28,0,Yeah.
+1543.58,1546.24,0,"You know, like they're it, it's highly demonstrative of that."
+1546.24,1553.76,0,"Like somebody is doing their work because they want, you know, there's some sort of larger framework in which they're doing it."
+1553.76,1555.08,0,That's not just like making money.
+1558.43,1558.72,0,Yeah.
+1559.34,1561.88,0,"So this would be a, this would be a yes for me."
+1564.88,1565.55,0,Let's see here.
+1574.31,1574.6,2,Cool.
+1579.63,1580.17,0,"Oh, weird."
+1580.4,1581.21,0,"Wait, hold on."
+1595.74,1596.35,2,Charlotte?
+1598.12,1598.62,0,"Yes, she is."
+1598.62,1599.14,0,"Okay, great."
+1599.25,1599.54,0,Wait.
+1603.06,1605,0,"Oh wait, Ugh."
+1605.33,1605.68,0,Sorry.
+1606.2,1608.32,0,"I just, this is also a new platform to me."
+1615.04,1617.33,0,"I'll figure out where those hidden, hidden people are."
+1623.44,1623.73,0,Okay.
+1625.04,1626.13,0,I'll just go through one more.
+1626.15,1629.64,0,"If you have specific questions after that, let me know."
+1630.35,1630.64,1,Okay.
+1632.69,1633.36,0,Let's see here.
+1639.43,1642.6,0,"This is like a, okay."
+1642.6,1648.52,0,"So one thing that, one thing that strikes me is like it, she doesn't have like preferences explicitly set up."
+1649.34,1656.27,0,"And for me, that sort of indicates like, it feels like she's going to be more of like a scenario rather than a missionary."
+1658.22,1675.43,0,"Like if she doesn't have opinions on where, or like, if she's not displaying opinions about where she wants to work, like that's sort of a red flag for me, sort of the same thing here as the previous one, like just not a lot of description into like what she was doing."
+1675.46,1677.26,0,"Granted, she's been there for nine months."
+1677.31,1678.22,0,Maybe that's fine.
+1679.68,1680.46,0,"Oh, well."
+1680.96,1685.5,0,"And she was here for longer and she's like very specific about what she built, like what she built."
+1686.08,1686.66,0,That's good.
+1688.48,1692.46,0,She has a computer science background and she has like the requisite languages that we have.
+1692.52,1694.18,0,And she's been a software engineer for a while.
+1694.4,1696.34,0,So that would be a yes for me.
+1699.44,1699.73,1,Cool.
+1699.96,1701.73,1,What do you mean by languages?
+1702.55,1703.85,0,"Oh, Java and Python."
+1704.11,1705.69,0,So primary area of expertise.
+1705.87,1708.81,0,"She, this has a, there's a list of like all the things that she's good at."
+1710.02,1710.3,0,Okay.
+1710.3,1712.7,0,And you see how Java and Python are highlighted.
+1712.72,1716.06,0,"It means that they match the search that, that we got her through."
+1716.77,1717.06,1,Okay.
+1717.33,1717.62,1,Yeah.
+1719.97,1720.56,2,Makes sense.
+1721.75,1722.04,1,Cool.
+1722.59,1726.44,0,"Cool questions, comments, concerns."
+1727.78,1728.92,1,"No, I think I got it."
+1730.25,1730.6,1,Sweet.
+1731.12,1740.71,1,"I will definitely be on the look at, in the calendar for, For interviews with Spencer."
+1741.48,1741.83,1,Sweet.
+1742.45,1747.31,1,"And then I'll be, I'll be assisting him, supporting him, making sure that they get over to you."
+1748.26,1752.43,1,"What did, what did they say a decision need needed to be made within six hours or so?"
+1754.46,1754.75,0,Yeah.
+1755.9,1756.19,1,Okay.
+1763.5,1775.64,0,"The outcome that I care about is that one we're running a really tight process internally for hiring, because respond like the faster we go, the more likely it is that we're gonna close."
+1775.82,1777.6,0,"So that's number one, number two."
+1777.67,1786.24,0,"There's just, it's just very easy to get a red reputation for like being a shitty company as far as hiring goes and like your reputation."
+1786.31,1788.88,0,"It's like a really hard thing to, to recover from."
+1789.12,1798.36,0,"I mean like reputation in general, just as an example, like no, like Stripe right now is kind of a shit show and it's because they can't hire any middle managers."
+1798.36,1805.59,0,And it's because like they've gained a reputation for like having like basically ghosting middle managers entirely.
+1805.59,1807.19,0,And this is like a hundred billion company.
+1808.49,1815.15,0,"That's like, you know, a Silicon valley darling, and nobody wants to touch it with like a 10 foot pole, 10 foot, 10 foot pole."
+1815.73,1818.97,0,"So yeah, we don't want to be striped that way."
+1819.15,1824.36,0,"We don't want our, we don't want build better, become a bad word for, you know, potential candidates."
+1825.91,1826.2,0,Yeah.
+1827.5,1846.43,0,"And so what that means is like either, so like if you, if it's a yes, then like ideally as soon as possible after the, after the call, we like send them a follow up email, basically introduce CCing me and saying like, nickel will do the text screen."
+1846.97,1850.39,0,"And then I respond immediately after that saying like, here's my call."
+1853.47,1853.76,0,Okay.
+1853.9,1858.44,0,"If there are no, then like there should be an immediate se like an immediate rejection letter."
+1859.87,1860.16,1,Okay.
+1863.17,1863.67,0,Is yeah.
+1863.7,1865.55,0,It's in the email templates.
+1865.55,1866.11,0,Google doc.
+1866.25,1867.23,0,Do you have access to that?
+1867.33,1868.07,0,Do you know where that is?
+1870.52,1871.3,1,Google doc.
+1872.61,1873.06,0,Hold on.
+1876.04,1878.44,0,"Let me, oh, fuck."
+1878.44,1879.04,0,Where it go.
+1880.95,1881.33,0,Oh wow.
+1881.47,1882.29,0,Not just crashed.
+1882.29,1882.81,0,That's hilarious.
+1882.98,1883.33,0,Right.
+1891.02,1895.54,1,I just pulled up an email templates hiring.
+1897.24,1902.41,1,"Let's see, first, second, third interview."
+1904.2,1906.3,0,"Oh yeah, this is yeah, exactly it."
+1906.3,1906.54,0,Yeah.
+1906.76,1909.22,0,So I got there's at the end.
+1909.68,1922.31,0,So year there are two email templates And It depends on what stage we're at which one you use.
+1922.31,1923.51,0,It depends on what stage you're at.
+1927.85,1928.07,1,OK.
+1928.07,1931.23,0,"Basically, if they get to me, then I'll use a later stage rejection."
+1931.77,1936.07,0,"But if they, if it's just Spencer, then feel free to feel free to do that."
+1936.16,1936.7,0,The first one.
+1937.53,1937.82,1,Okay.
+1938.29,1938.58,1,Yeah.
+1938.64,1952.98,1,"And would it be beneficial to, instead of saying, you know, I'll let schedule the call with you, would it just be beneficial to send your over immediately?"
+1953.25,1953.86,0,That would be great.
+1953.86,1954.14,0,Yeah.
+1954.65,1954.94,1,Okay.
+1968.35,1971.32,0,I'll let Nick hill share next steps for scheduling a next call.
+1971.82,1991.69,0,"So let's say, And that gets Pasted go."
+1992.92,1993.41,1,Perfect.
+1994.04,1994.33,0,Yeah.
+1996.63,1997.12,1,Awesome.
+1999.33,1999.97,1,I think that's it.
+2000.05,2002.13,1,I think that's everything I needed to know.
+2002.7,2003.05,1,Sweet.
+2006.89,2014.44,1,"So Allison Craig was the, was the, no, I feel like there was a guy named Jefferson or something."
+2014.95,2015.24,0,Yeah.
+2015.24,2016.16,0,"Jefferson, Kuwait."
+2016.26,2020,0,So he got passed along to me and he hasn't yet scheduled.
+2020.2,2035.46,0,"I don't believe, let me Has not Scheduled a call."
+2036.61,2040.64,0,There's another one that has here.
+2040.7,2051.27,0,I'm just gonna CC you on these Two.
+2059.38,2066.74,0,And the other one was Shit.
+2071.28,2071.87,0,There you go.
+2077.83,2078.12,0,Yeah.
+2078.12,2097.41,0,"So ideally when Spencer first, like when, when a call is scheduled for, with Spencer, we add them to the applicant tracker just cuz we, we also want to, we also want to Keep track of like who we rejected and so that we can like send them a rejection email."
+2099.2,2099.42,1,OK.
+2099.89,2100.18,0,Yeah.
+2102.23,2102.58,1,Sorry.
+2102.66,2104.5,1,I wasn't looking at what you were doing just now.
+2106.96,2107.3,0,Oh no.
+2107.34,2108.7,0,I was just forwarding them to you.
+2109.86,2109.98,1,Okay.
+2110.33,2110.81,1,I can add that.
+2111.44,2111.73,0,Yeah.
+2111.73,2112.57,0,I can add those right now.
+2113.39,2113.97,1,"No, it's okay."
+2114.05,2115.21,1,"I can, I can do that."
+2115.25,2118.17,1,I was just Page.
+2120.08,2120.37,1,Okay.
+2126.33,2131.81,1,Oh and then the people from where are you on that?
+2133.49,2133.84,0,Sorry.
+2136.51,2138.92,1,S just let go.
+2140.3,2144,0,Oh yeah.
+2144.12,2146.84,0,"I haven't really done any, I haven't really done anything there."
+2147.12,2148,0,"I, okay."
+2148.11,2153.52,0,"Spencer sort of, I, it wasn't very clear like what, like who the AOR was at on that."
+2154.08,2160.39,0,"I assume that Spencer was doing it just cuz he has a larger Twitter following on, on both that build better account as well as his personal account."
+2163.02,2163.31,0,Yeah.
+2163.94,2164.23,1,Okay.
+2164.55,2170.43,1,"I can sync with him on that and then get back to you and see if we're gonna, gonna continue that path."
+2170.58,2170.87,1,Yeah.
+2171.42,2171.71,0,Cool.
+2171.86,2172.15,0,Yeah.
+2173.82,2174.11,0,Yeah.
+2180.42,2180.71,1,Yeah.
+2180.74,2181.03,1,Yeah.
+2181.03,2181.99,1,I was excited for that.
+2182.46,2182.75,0,Yeah.
+2185.05,2187.47,1,I'm gonna just add that to my notes for fast.
+2188.09,2190.49,1,So Spencer.
+2198.27,2198.56,1,Okay.
+2202.8,2203.14,1,All right.
+2203.14,2203.34,1,Yeah.
+2203.61,2206.66,1,I'll go ahead and add those other two.
+2210.45,2210.74,1,Okay.
+2211.95,2221.58,1,And so we're using hired.com we're syncing on fast and just getting leads from anywhere else that comes in.
+2222.25,2222.54,0,Yeah.
+2223.25,2223.54,1,Okay.
+2224.8,2225.3,0,"Oh, okay."
+2225.32,2253.68,0,"And then I guess there's also, I guess this doesn't really involve you, you, but it's worth, just worth just mentioning if I, I'm also trying to reach out to people in my own network personally, when I do that, I'm not, I'm sort of skipping over Spencer as the, like, as doing the culture fit just because like I know them and I, I have like pretty high confidence that I would be able to work with them for those edits."
+2253.68,2259.8,0,"They just sort of, they just get, or they just skip directly to the tech screen with me."
+2260.55,2260.84,1,Okay.
+2261.23,2261.52,0,Yeah.
+2262.43,2262.92,1,Perfect.
+2263.47,2263.76,0,Yeah.
+2265.69,2266.04,1,Right.
+2267.05,2267.4,0,Sweet.
+2268.1,2276.15,1,"Was it just wanted to know my know my place as I just wanted to know my, my place and this on the clean flow."
+2276.58,2276.87,1,Yeah.
+2276.97,2280.63,0,"So, and let me know if there are any other ambiguities I'm happy to, I'm happy to clarify."
+2281.82,2282.11,0,Yeah.
+2282.26,2282.55,0,Okay.
+2283.65,2284.47,0,We have 20 more minutes.
+2284.65,2285.55,0,You wanna just hang out?
+2285.79,2287.43,0,I feel like we didn't do an introductory call.
+2288.27,2288.87,1,"I know, right?"
+2290.18,2290.47,1,Yeah.
+2290.48,2291.03,1,Let's do it.
+2291.32,2291.99,0,How's everybody.
+2292.2,2293.82,0,How's everybody in the family right now.
+2294.48,2296.38,1,I'm gonna grab some cereal while we're doing this too.
+2299.1,2299.22,0,Actually.
+2299.22,2299.34,0,Yeah.
+2299.78,2299.9,0,Everyone.
+2302.68,2305.98,1,My house is super dark and it's super dirty.
+2306.12,2310.58,1,So don't judge the clothes in the background and all the shit everywhere.
+2311.59,2311.94,0,House?
+2316.34,2317.16,3,That's lived in.
+2317.46,2318.12,3,Oh my God.
+2321.43,2321.72,1,Yeah.
+2321.86,2323.04,1,"So yeah, everyone's good."
+2324.38,2326.44,1,The baby is not with me today.
+2326.58,2331.68,1,So I kind of feel like I kind of feel like I'm missing my left arm.
+2333.21,2333.58,3,It's all right.
+2333.58,2334.38,3,Who shot with you today?
+2335.87,2336.37,1,My baby.
+2338.98,2339.27,1,Yeah.
+2339.27,2339.59,1,Where?
+2339.65,2341.71,1,"So I feel like I'm miss, I'm missing my left arm."
+2342,2342.95,1,Cause she's not here.
+2344.66,2345.47,3,Where's your baby.
+2346.52,2347.91,1,She's with my aunt.
+2348.45,2355.35,1,So she's watching her for me for the next couple of weeks until I can get them both into Montessori school.
+2356.45,2356.74,1,Nice.
+2357.71,2361.22,1,"Cause I, I just didn't wanna put them in like a regular daycare."
+2364.83,2369.83,1,"I felt like, you know, the Montessori method is something that my son really thrived in."
+2369.98,2381.7,1,"Like his relationship with others, his development, you know, like his abilities and like were just like heightened during that time."
+2382.21,2382.7,1,Totally.
+2383.64,2397.77,1,"And so I wanna be able to provide them both with that type of education in the beginning of their, and then my son, he Isly going to like a, just like a parents day program."
+2398.15,2417.07,1,So that's only like four days a week and it's only like it really Focused.
+2418.13,2418.42,3,Yeah.
+2420.04,2422.5,1,So yeah.
+2422.57,2423.06,1,What else?
+2426.1,2427.36,1,The Hub's off tomorrow.
+2428.06,2430.12,1,So he'll be here.
+2430.47,2433.72,1,"I'll have my first like real full day at, of work."
+2438.73,2440.59,3,Not the not burning the midnight oil.
+2441.42,2441.91,1,Exactly.
+2442.34,2442.63,1,Yeah.
+2442.89,2443.51,1,"It, yeah."
+2443.74,2446.81,1,It's he gets annoyed when I do that.
+2446.83,2451.13,1,"But then, but I'm like, I'm working like five hours a day right now."
+2451.19,2455.41,1,"You know, I wanna be able to like show them that I can actually do my job."
+2457.44,2458.29,3,"It's all good, man."
+2458.53,2461.56,3,"I feel like if you gotta do it, you gotta do what you gotta do."
+2470.41,2470.7,1,Yeah.
+2473.81,2474.1,1,Yeah.
+2474.28,2486.77,1,"That's one of the reasons like that I applied or not, not I applied, but that's a, one of the reasons that I like really like heavily considered build better as one of like the top offers for me."
+2486.77,2493.88,1,"Because a lot of remote companies will say that they'll be like, oh yeah, we don't, we don't care about how many hours, you know, you put in."
+2494.02,2500.36,1,"We just, we just wanna see the work and, and the, but the last company I was at, they said the same thing."
+2500.86,2506.92,1,"And then when I wasn't there, like every two seconds to answer a slack message, it was a problem."
+2508.23,2508.43,1,Interesting.
+2508.7,2508.99,1,Yeah.
+2509.78,2514.35,3,"Wait, so what would, what signal something different?"
+2517.45,2518.06,1,What was that?
+2518.85,2520.9,3,"What, what, so for, with build better?"
+2521.57,2523.98,3,"What signal that we wouldn't, that we wouldn't do that?"
+2527.78,2531.31,1,What signals that you wouldn't do that or that you don't do that?
+2532.23,2533.2,3,That we would not do that.
+2533.2,2533.4,3,Yeah.
+2533.7,2535.23,3,"That we, that we don't do that."
+2540.99,2555.53,1,"I guess the fact that there's like, not like immediate follow up, like, Like a, like 15 or 30 minutes later, you know, people aren't in my text messages saying, where is this?"
+2556.06,2557.36,1,Or okay.
+2560.82,2561.11,1,Yeah.
+2562.91,2563.39,3,Synchronously.
+2564.34,2566.43,1,"Yeah, yeah, yeah, exactly."
+2567.47,2567.79,3,Makes sense.
+2570.19,2571.35,3,I feel like that's really damaging.
+2571.91,2572.31,3,I don't know.
+2572.63,2591.62,3,"I like needing to be on like that all the time As somebody who doesn't do it well, and that like, I don't, I often don't have boundaries where I'll like, just check slack, you know, while I'm out to dinner or whatever, I don't expect it of other people."
+2592.08,2604.42,3,"But like, I understand that it like stresses me out and sometimes I just have to like delete slack off of my phone for like an evening or for a couple of days just to like get away from it."
+2605.24,2605.62,1,My gosh.
+2605.68,2606.3,1,I'd do that too.
+2606.52,2607.7,1,And then you download again.
+2608.33,2608.98,3,"Yeah, exactly."
+2610.54,2612.22,3,"Like, it's like TikTok for me."
+2612.7,2614.62,3,I redownload TikTok every couple of weeks.
+2616,2616.7,1,Oh my gosh.
+2620.37,2623.41,1,"I get like lost in there and I'm like, this is so funny."
+2624.32,2624.61,1,Yeah.
+2624.83,2628.01,1,"And then I'm like, wait, I just spent three hours on the air."
+2628.73,2630.57,3,I know Dude.
+2630.72,2632.66,3,"Like, Yeah."
+2632.85,2636.62,3,"It's, it's, It's wild that they created something."
+2636.76,2637.5,3,So engaging.
+2638.97,2642.93,3,"Like they're recommendation algorithms are just like wild and like, it's crazy."
+2643.16,2654.6,3,"Like so often, like Technology isn't really emote because like it's easy to replicate once people know that it's possible."
+2654.78,2656.16,3,"And like, you know, it's an open market."
+2656.34,2662.3,3,"So people like, You know, people can like leave one company and join another and bring all of the knowledge."
+2662.37,2663.22,3,They like that.
+2663.22,2664.1,3,They accrued at the other company.
+2664.98,2665.27,3,Yeah.
+2675.56,2677.12,1,I know got some talented people there.
+2677.12,2677.68,1,What are you eating?
+2679.84,2679.96,3,Hmm.
+2680.72,2689.24,3,I got this mixed nut butter from Costco and I'm just eating banana with mixed nut butter on it.
+2689.34,2691.03,3,And maybe a drizzle of honey.
+2692.23,2693.15,1,My pre say.
+2693.7,2693.99,1,Yeah.
+2694.07,2698.75,1,I just wanted to say a drizzle of agave or an maple syrup.
+2699.78,2700.07,3,Yeah.
+2700.41,2703.43,3,What's your favorite cereal and what cereal you're eating right now.
+2704.93,2705.91,1,We don't eat one cereal.
+2708.53,2709.63,1,We only eat one type of cereal.
+2709.7,2712.02,1,"It's special can but, and almond."
+2712.93,2713.22,3,Nice.
+2713.96,2714.42,3,Oh dude.
+2714.45,2714.74,3,Yeah.
+2715,2717.82,3,The special cake strawberry stuff is like kind of bullshit.
+2718.14,2725.47,3,"I, I don't think, I feel like the, like the, the, the fruit flavored cereals are no good."
+2725.54,2727.75,3,Like you should just have fruit in the cereal then.
+2727.92,2728.27,3,Right?
+2728.86,2729.35,1,Exactly.
+2729.74,2730.03,1,Yeah.
+2730.34,2732.54,1,Like I feel like it's like fake fruit.
+2733.05,2733.54,3,Exactly.
+2733.56,2737.35,1,"And it's probably not, but it, it doesn't feel right."
+2737.82,2738.31,3,Exactly.
+2738.7,2738.99,3,Yeah.
+2741.18,2742.83,3,"Wait, if you like vanilla, sorry."
+2742.83,2743.39,3,What is it?
+2743.39,2744.11,3,Vanilla nut.
+2746.04,2746.84,3,Vanilla almond.
+2746.86,2747.24,3,Oh yeah.
+2747.24,2747.48,3,Yeah.
+2749.49,2750.2,3,Honey bunches.
+2750.2,2750.44,3,Almost.
+2750.55,2753.16,1,"There's like actual, like sliced all."
+2753.78,2754.07,1,Yeah.
+2754.07,2755.23,1,Honey bunches of oats too.
+2755.37,2755.95,1,Oh my God.
+2756.25,2760.79,1,"But honey, bunches of oats is like super like sugary."
+2760.91,2763.11,1,"I feel like, like overly sugary."
+2763.7,2763.99,3,Yeah.
+2763.99,2764.67,3,It totally is.
+2764.73,2765.67,3,That's why I'm into it.
+2770.27,2771.11,3,Can't have it in the house.
+2771.12,2774.54,3,Cause I literally will demolish the entire thing.
+2777.8,2778.9,1,So do you work it at home?
+2782.64,2783.34,3,Or do you go outside?
+2783.58,2785.94,3,"I, I go to a gym."
+2800.34,2802.26,3,"And we have a, we have a lot of space on the ranch."
+2802.36,2809.98,3,"And so like in the basement, I, I bought like a power rack and I worked out there."
+2810.34,2818.13,3,"I basically did the cost benefit analysis of like, well, I have to drive to town every day and it's like 30 minutes to drive to town 30 minutes back."
+2818.39,2819.45,3,"So like, oh wow."
+2819.99,2835.27,3,"If I like, if I, if I amortize that or if I like value my time, then like it's E it's like very easy to see that even spending like $500 on gym equipment is like a worthwhile return on investment."
+2836.1,2836.39,1,Yeah.
+2837.73,2838.02,3,Yeah.
+2840.6,2842.06,3,"So I go to, but yeah."
+2842.16,2849.32,3,"And then I moved, I moved to Cambridge in September and everything's walking distance here."
+2849.54,2857.28,3,So like I can bike to the gym in about like six minutes and I can walk there in like 30 if I wanna walk.
+2859.26,2860.64,3,So it's nice.
+2860.79,2861.08,3,Yeah.
+2861.08,2861.72,3,What about you?
+2865.12,2867,1,I walk my kids on their stroller.
+2867,2867.88,1,Let me come show you.
+2868.65,2874.64,1,"You won't, you won't be able to see how heavy it is from just by looking at it."
+2874.7,2878.92,1,"But this thing is like, is super heavy with the kids in it."
+2879.38,2881.64,1,I'm telling you it's a workout in itself.
+2882.18,2883.28,1,And then I'm in Texas too.
+2883.3,2886.4,1,"So it's like always like 70, 80 here."
+2887.06,2887.52,3,Oh my God.
+2888.71,2891.27,1,"Yeah, There's always a lot going on."
+2893.14,2893.43,1,Okay.
+2897.61,2898.39,1,Can you see that?
+2899.1,2900.79,1,"Wait, let me do it from this angle."
+2901.38,2903.15,3,"Whoa, damn dude."
+2903.15,2904.07,3,That's a chunky boy.
+2904.62,2904.91,1,Yeah.
+2905.05,2905.55,1,How old are you?
+2905.69,2910.55,1,"So my son Ezra, he's two he'll he'll get in here."
+2911.64,2919.78,1,"And he always like, for some reason he never let me put him in like, like straight, like on the stroller."
+2926.4,2931.34,1,"Go in there and then I'll just like chunk the, what is it?"
+2931.71,2932.13,1,Car seat.
+2932.13,2933.33,1,Just like right on top of here.
+2933.95,2937.57,1,So there's like a car seat and a baby and then a toddler.
+2938.51,2942.01,1,And then this thing already by itself is maybe 20 pounds.
+2945.76,2946.05,3,Yeah.
+2946.24,2946.53,1,Damn.
+2948.11,2949.05,1,That's how I work out.
+2950.05,2951.33,3,I feel like that's a pretty good one.
+2951.59,2953.04,3,"And like, let's be real."
+2953.2,2956.4,3,"I feel like the real workout is like, just having kids."
+2958.1,2960.2,3,That's like the real mental and physical challenge.
+2960.99,2961.48,1,Exactly.
+2963.02,2964.2,1,You don't even have to do anything.
+2964.23,2965.72,1,Just pop those suckers out.
+2972.44,2977.63,3,"I, I was in an accelerator like a startup accelerator a couple years ago."
+2978.3,2981.08,3,"And there was this woman who's like, she was 27."
+2982.25,2983.31,3,She was a Stanford.
+2983.45,2985.83,3,She had gone to Stanford for undergrad and grad school.
+2986.65,2989.95,3,"And then, and she had had, she had a four year old at 27."
+2990.01,2992.07,3,So she had the four year old when she was 23.
+2992.93,2997.42,3,"And, and I asked her, I was like, how do you, how do you do it?"
+2997.69,2999.06,3,"Like how, how does that work?"
+2999.08,3000.22,3,"And she's like, you know what?"
+3000.57,3003.63,3,"Like kids, they basically just raise themselves."
+3004.68,3009.54,3,"And I was like, that's a great way to tell me that your kids are gonna be like pretty screwed up."
+3014.49,3015.93,1,I've heard that thing before though.
+3017.07,3019.41,1,I'm not sure exactly what they mean by that.
+3020.01,3022.57,1,"I guess like when they get older, it's different."
+3022.71,3030.84,1,"But like when they're young, like under two, like under three, I feel like We have to do everything for them."
+3030.94,3038.28,1,"And then somebody told me that even after like when they're potty trained, like you still have to like go and wipe their butt."
+3039.22,3040.16,1,"And I'm like, wait a minute."
+3041.86,3043.24,1,And actually never thought about that.
+3043.26,3049.35,1,"I'm gonna still have to probably keep wiping his butt for two years after he is been, you're really not potty train."
+3049.35,3052.35,1,Cause I'm sitting here literally wiping your shit off.
+3054.17,3055.51,3,You know how the big brand is.
+3062.92,3064.55,1,Stool to hop on the toilet.
+3067.02,3067.3,3,Yeah.
+3068.71,3069.38,3,Teach 'em early.
+3070.36,3072.38,3,I'm like very strongly opinioned about the day.
+3072.62,3074.5,3,I think it's just like the more civilized way.
+3076.44,3078.37,1,I've never used one I've always wanted to.
+3078.37,3078.61,1,Yeah.
+3088.57,3089.06,1,Wait a minute.
+3089.06,3093.05,1,So you just sit there after like the water just like shoots up?
+3093.83,3094.05,3,No.
+3094.11,3100.37,3,"So I have like a low tech one, but basically just like hooks into the water supply."
+3101.23,3104.56,3,"Like it's a, passthrough for the water supply to the toilet, like to the toilet tank."
+3105.14,3113.11,3,"And I basically just flip a valve and then there's like a hose with, it's like a little nozzle at the end that you can like press down."
+3113.58,3115.79,3,It's like a little garden hose with a spray.
+3116.33,3118.91,3,We know like the ones where you like squeeze and then it sprays out.
+3120.34,3122.71,3,"It's like that, but it's like all metal."
+3125.37,3138.11,3,"And so you flip the switch so that the like water's bypassed and then you just wash it as, and then you flip the switch back so that the toilet can fill up again and you dry and it's like you the toilet."
+3138.53,3143.87,3,"And it's like, your ass is actually clean rather than like, with all over it."
+3146.65,3155.98,1,"Oh, toilet that you basically just like spray and then you just like sit there until it dries."
+3156.75,3158.94,1,Cause I thought it would like replace the toilet paper.
+3159.14,3163.85,1,I thought people did it because they wanted to be more environmentally friendly.
+3164.95,3166.49,3,"Oh no, fuck the environment."
+3166.49,3171.61,3,"Not literally fucking the environment, but like I'm not considering the environment when I'm, when I'm cleaning my ass."
+3175.12,3175.32,1,Right?
+3176.71,3177,1,Yeah.
+3177,3177.88,1,That's a different story.
+3177.88,3178.76,1,"Sorry, environment."
+3179.01,3179.36,1,Sorry.
+3179.61,3181.2,1,"Sorry, kids, grandkids."
+3184.62,3185.32,3,That's be real.
+3185.32,3187.36,3,Like paper trees are mostly grown on farms now.
+3187.59,3189.44,3,They're probably like not carbon neutral.
+3190.75,3194.3,3,Probably maybe MI minorly car of been positive.
+3195.18,3195.3,3,Negative.
+3201.06,3225.99,1,"Make me think, honestly though, like what you're doing right now is helping save the environment instead of you like trying to like beef up on like tons of like meat based proteins and stuff like is helping the environment because like farming and like industrial, like farming and raising cattle and doing all that is actual hurting the planet the most."
+3227.01,3234.39,1,"So like trying to save paper like electricity, like and water and all this stuff like, yeah, that helps."
+3249.12,3258.1,3,"My friend has this theory that like all of these ways that we like have been taught, what are they called?"
+3259.21,3281.57,3,"Like green covering or something basically like all these companies, like all like big, big ag has, has an incentive to make you feel like you're doing something good for the environment by doing all of these like token examples of like environmentalism, like, oh, replacing your plastic straws with metal ones or like recycling."
+3281.76,3282.85,3,Like most of it's bullshit.
+3284.49,3295.77,3,"Most of the things that we recycle do not end that like do not end up like back in the, like back in the, the, the material supply of the world."
+3295.8,3296.09,3,Yeah.
+3298.47,3306.43,1,"Not only that, but like restaurants will give you like those paper straws, but then they'll give you like the plastic cups that I'm like."
+3306.46,3306.75,1,Yeah.
+3306.96,3307.31,3,Right.
+3307.31,3307.67,3,Exactly.
+3308.09,3309.78,3,It just doesn't any fucking sense.
+3312.77,3313.06,3,Yeah.
+3313.66,3320.24,3,"I don't know how you would, like, I don't know how you replace that."
+3321.04,3326.68,3,"Although there have been a lot of, like, there have been a lot of ideas for mushroom based packing packaging."
+3328.12,3328.93,3,Have you seen that?
+3331.27,3332.01,1,"No, I haven't."
+3332.01,3333.84,1,I've seen mushroom though.
+3334.79,3335.49,3,"Oh, that's fun."
+3335.68,3335.97,3,Whoa.
+3337.23,3337.81,3,That's neat.
+3338.39,3343.21,3,So basically like MyUM is like the underground network that mushrooms grow out of.
+3343.71,3345.13,3,That's like the actual organism.
+3345.13,3345.41,3,Right.
+3345.43,3349.69,3,"And mushrooms are just like the sex organs of the like, of the MyUM network."
+3351.15,3356.44,3,"And like you can get mys networks that get really, really like firm."
+3356.78,3370.96,3,And like people have used them for bricks and like insulation and even a proposal for making a mycelia network to shield like the next big telescope that goes into space.
+3370.96,3381.99,3,"Because like there's some mushroom or the, there are some my, my species that can like absorb radioactive decay or like, you know, radioactive waste."
+3383.02,3383.24,1,Wow.
+3384.71,3385,3,Yeah.
+3386.24,3389.4,1,I would love to see that like sped up over time.
+3392.27,3395.32,3,"Like, like the, like a video of like it growing in space."
+3395.99,3396.28,1,Yeah.
+3397.07,3397.36,3,Yeah.
+3398.68,3398.84,1,Interesting.
+3404.5,3412.35,1,"I'm not trying to get off the with you, my mom and husband, just me I'm out."
+3412.41,3414.15,1,And I'm thinking to.
