@@ -1,6 +1,7 @@
-import { useEffect, useRef, useState } from 'react';
+import { useRef, useState } from 'react';
 import { Moment } from "../data";
 import { LinkIcon } from '../../components/LinkIcon';
+import { PlayIcon } from '../../components/PlayIcon';
 import { TrashIcon } from '../../components/TrashIcon';
 
 export { MomentCard };
@@ -10,6 +11,10 @@ interface MomentCardProps {
   handleChanges: (data: Moment) => void;
   removeCard: (id: number) => void;
   moment: Moment;
+}
+
+interface PlayButtonProps {
+  seconds: number
 }
 
 interface CardActionProps {
@@ -25,23 +30,12 @@ const MomentCard = (props: MomentCardProps) => {
   const toggleCardFocus = (state?: boolean) => setCardFocused(state || !cardFocused)
   const handleRemoveCard = () => props.removeCard(props.moment.id)
 
-  useEffect(() => {
-    let currentCard = cardRef.current || null,
-      currentInput = inputRef.current || null
-
-    if (document.activeElement === currentInput) {
-      toggleCardFocus(true)
-    }
-
-    return () => {
-      currentCard = null
-      currentInput = null
-    }
-  }, [cardRef, inputRef, toggleCardFocus])
-
   return (
     <div className={`card ${cardFocused && 'card--focused'}`} tabIndex={props.moment.id} ref={cardRef} onBlur={() => toggleCardFocus(false)}>
-      <span className={`card__type card__type--${props.moment.type}`}>{props.moment.type}</span>
+      <div className="card__header">
+        <span className={`card__type card__type--${props.moment.type}`}>{props.moment.type}</span>
+        <PlayButton seconds={props.moment.timeInSeconds} />
+      </div>
       <div className="card__input"
         onFocus={() => toggleCardFocus(true)}
         ref={inputRef}
@@ -61,6 +55,22 @@ const MomentCard = (props: MomentCardProps) => {
     </div>
   );
 };
+
+const formatTime = (seconds: number) => {
+  const remainingSeconds = seconds % 60
+  const minutes = seconds - remainingSeconds
+
+  return `${minutes}:${seconds < 10 ? `0${seconds}` : seconds}`
+}
+
+const PlayButton = (props: PlayButtonProps) => (
+  <div className="play-button">
+    <button className="play-button__icon">
+      <PlayIcon />
+    </button>
+    <span className="play-button__timestamp">{formatTime(props.seconds)}</span>
+  </div>
+)
 
 const CardActions = (props: CardActionProps) => (
   <div className="card__actions">

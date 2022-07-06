@@ -6,6 +6,7 @@
   --background-color: #141415;
   --card-primary-background: #27292c;
   --card-active-background: #3a3c3f;
+  --play-button-background: #474a4e;
   --accent-color: #8855fd;
   --danger-color: #ee6b60;
   --success-color: #75c097;
@@ -110,6 +111,7 @@ h6 {
 .card {
   align-items: flex-start;
   background-color: var(--card-primary-background);
+  border: 3px solid transparent;
   border-radius: 0.625rem;
   display: flex;
   flex-direction: column;
@@ -122,7 +124,7 @@ h6 {
 .card:focus,
 .card--focused {
   background-color: var(--card-active-background);
-  border: 3px solid var(--highlight-color);
+  border-color: var(--highlight-color);
   outline: 0;
 }
 
@@ -131,7 +133,7 @@ h6 {
   color: var(--text-primary);
   display: flex;
   font-size: 0.875rem;
-  font-weight: 700;
+  font-weight: 500;
   letter-spacing: -0.01em;
   line-height: 1.25rem;
   text-transform: capitalize;
@@ -184,6 +186,13 @@ h6 {
   background-color: var(--card-active-background);
 }
 
+.card__header {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
 .card__input:empty::after {
   content: 'Add note...';
   color: var(--text-secondary);
@@ -223,4 +232,38 @@ h6 {
 
 .card__actions > button:focus {
   outline: none;
+}
+
+.play-button {
+  align-items: center;
+  background-color: var(--play-button-background);
+  border-radius: 6.25rem;
+  box-sizing: border-box;
+  display: flex;
+  height: 2rem;
+  justify-content: space-between;
+  padding: 0.25rem;
+  width: 4.375rem;
+}
+
+.play-button__icon {
+  align-items: center;
+  background-color: var(--accent-color);
+  border: none;
+  border-radius: 50%;
+  color: var(--text-primary);
+  display: flex;
+  height: 1.5rem;
+  justify-content: center;
+  padding: 0;
+  outline: none;
+  width: 1.5rem;
+}
+
+.play-button__timestamp {
+  color: var(--text-primary);
+  font-family: inherit;
+  font-size: 0.75rem;
+  font-weight: 300;
+  padding: 0 0.375rem;
 }
