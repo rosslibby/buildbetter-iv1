@@ -2,11 +2,11 @@ import { useState } from "react";
 import styled from "styled-components";
 import { GlobalStyles } from "./GlobalStyles";
 import { MomentCard } from "./moments/components/MomentCard";
-import { emptyMoment } from "./moments/data";
+import { emptyMoment, moments } from "./moments/data";
 import { Moment } from './moments/data'
 
 const App = () => {
-  const [cards, setCards] = useState<Moment[]>([emptyMoment])
+  const [cards, setCards] = useState<Moment[]>(moments)
   const updateCardData = (data: Moment) => {
     setCards(cards => cards.map(card => card.id === data.id ? data : card))
   }

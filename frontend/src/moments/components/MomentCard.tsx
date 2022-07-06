@@ -59,9 +59,9 @@ const MomentCard = (props: MomentCardProps) => {
 
 const formatTime = (seconds: number) => {
   const remainingSeconds = seconds % 60
-  const minutes = seconds - remainingSeconds
+  const minutes = (seconds - remainingSeconds) / 60
 
-  return `${minutes}:${seconds < 10 ? `0${seconds}` : seconds}`
+  return `${minutes}:${remainingSeconds < 10 ? `0${remainingSeconds}` : remainingSeconds}`
 }
 
 const PlayButton = (props: PlayButtonProps) => (
