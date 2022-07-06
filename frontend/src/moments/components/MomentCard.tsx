@@ -36,15 +36,6 @@ const MomentCard = (props: MomentCardProps) => {
           })
         }}
       />
-      {/* <textarea
-        className="card__input"
-        defaultValue={props.moment.notes}
-        onChange={(e) => props.handleChanges({
-          ...props.moment,
-          notes: e.target.value
-        })}
-        placeholder="Add note..."
-      /> */}
       <CardActions garbageAction={handleRemoveCard} />
     </div>
   );

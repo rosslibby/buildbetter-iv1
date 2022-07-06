@@ -178,6 +178,15 @@ h6 {
   width: 100%;
 }
 
+.card__input:empty::after {
+  content: 'Add note...';
+  color: var(--text-secondary);
+}
+
+.card__input:focus {
+  outline: none;
+}
+
 .card__input::placeholder {
   color: var(--text-secondary);
 }
@@ -204,4 +213,8 @@ h6 {
 
 .card__actions > button:hover {
   color: var(--text-primary);
+}
+
+.card__actions > button:focus {
+  outline: none;
 }
