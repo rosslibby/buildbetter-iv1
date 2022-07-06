@@ -3,15 +3,28 @@ import styled from "styled-components";
 import { GlobalStyles } from "./GlobalStyles";
 import { MomentCard } from "./moments/components/MomentCard";
 import { emptyMoment } from "./moments/data";
+import { Moment } from './moments/data'
 
 const App = () => {
+  const [cards, setCards] = useState<Moment[]>([emptyMoment])
+  const updateCardData = (data: Moment) => {
+    console.log(`The following data has been modified for card ${data.id}:`, data)
+    setCards(cards => cards.map(card => card.id === data.id ? data : card))
+  }
+
   return (
     <AppShell>
       <GlobalStyles />
       <ColumnWrapper>
         <h1>BuildBetter Moments</h1>
         <MomentStackWrapper>
-          <MomentCard moment={emptyMoment} />
+          {cards.map(card => (
+            <MomentCard
+              key={`moment_${card.id}`}
+              moment={card}
+              handleChanges={updateCardData}
+            />
+          ))}
         </MomentStackWrapper>
       </ColumnWrapper>
     </AppShell>
